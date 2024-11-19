@@ -6,7 +6,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/go-pay/gopay"
+	"github.com/cjieyan/gopay"
 )
 
 // 创建JSAPI订单

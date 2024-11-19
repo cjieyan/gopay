@@ -4,8 +4,8 @@ import (
 	"os"
 	"testing"
 
+	"github.com/cjieyan/gopay"
 	"github.com/go-pay/crypto/xrsa"
-	"github.com/go-pay/gopay"
 	"github.com/go-pay/xlog"
 )
 

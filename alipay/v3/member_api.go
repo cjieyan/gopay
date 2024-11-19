@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/go-pay/gopay"
+	"github.com/cjieyan/gopay"
 )
 
 // 换取授权访问令牌

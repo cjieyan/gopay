@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/go-pay/gopay"
+	"github.com/cjieyan/gopay"
 )
 
 // 统一收单交易支付接口

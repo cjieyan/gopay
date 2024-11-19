@@ -6,9 +6,9 @@ import (
 	"errors"
 	"sync"
 
+	"github.com/cjieyan/gopay"
+	"github.com/cjieyan/gopay/pkg/xhttp"
 	"github.com/go-pay/crypto/xpem"
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/xhttp"
 	"github.com/go-pay/xlog"
 )
 

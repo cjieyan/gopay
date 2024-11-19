@@ -19,9 +19,9 @@ import (
 	"net/http"
 	"strings"
 
+	"github.com/cjieyan/gopay"
+	"github.com/cjieyan/gopay/pkg/xhttp"
 	xaes "github.com/go-pay/crypto/aes"
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/xhttp"
 )
 
 // ParseNotifyToBodyMap 解析微信支付异步通知的结果到BodyMap（推荐）

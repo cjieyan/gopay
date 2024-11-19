@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/go-pay/gopay/saobei/cert"
+	"github.com/cjieyan/gopay/saobei/cert"
 	"github.com/go-pay/xlog"
 )
 

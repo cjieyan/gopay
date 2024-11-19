@@ -10,9 +10,9 @@ import (
 	"fmt"
 	"reflect"
 
+	"github.com/cjieyan/gopay"
 	"github.com/go-pay/crypto/aes"
 	"github.com/go-pay/crypto/xpem"
-	"github.com/go-pay/gopay"
 )
 
 // 敏感信息加密，默认使用最新的有效微信平台证书加密

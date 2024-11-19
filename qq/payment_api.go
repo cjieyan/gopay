@@ -15,7 +15,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/go-pay/gopay"
+	"github.com/cjieyan/gopay"
 )
 
 // ParseNotifyToBodyMap 解析QQ支付异步通知的结果到BodyMap

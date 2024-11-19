@@ -13,7 +13,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/go-pay/gopay"
+	"github.com/cjieyan/gopay"
 	"github.com/go-pay/util"
 )
 

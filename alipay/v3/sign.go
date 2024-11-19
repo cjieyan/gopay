@@ -13,8 +13,8 @@ import (
 	"strings"
 	"time"
 
+	"github.com/cjieyan/gopay"
 	"github.com/go-pay/crypto/xpem"
-	"github.com/go-pay/gopay"
 	"github.com/go-pay/util"
 	"github.com/go-pay/util/convert"
 )

@@ -5,8 +5,8 @@ import (
 	"log"
 	"net/http"
 
+	"github.com/cjieyan/gopay/alipay"
 	"github.com/go-pay/crypto/xrsa"
-	"github.com/go-pay/gopay/alipay"
 	"github.com/go-pay/xlog"
 )
 

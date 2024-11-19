@@ -6,8 +6,8 @@ import (
 	"encoding/json"
 	"testing"
 
+	"github.com/cjieyan/gopay"
 	"github.com/go-pay/crypto/xrsa"
-	"github.com/go-pay/gopay"
 	"github.com/go-pay/util"
 	"github.com/go-pay/xlog"
 )

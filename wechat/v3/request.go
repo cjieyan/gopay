@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/xhttp"
+	"github.com/cjieyan/gopay"
+	"github.com/cjieyan/gopay/pkg/xhttp"
 	"github.com/go-pay/util"
 )
 

@@ -7,11 +7,11 @@ import (
 	"fmt"
 	"time"
 
+	"github.com/cjieyan/gopay"
+	"github.com/cjieyan/gopay/pkg/xhttp"
 	"github.com/go-pay/crypto/aes"
 	"github.com/go-pay/crypto/xpem"
 	"github.com/go-pay/crypto/xrsa"
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/xhttp"
 	"github.com/go-pay/xlog"
 	"github.com/go-pay/xtime"
 )

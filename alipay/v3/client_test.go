@@ -5,9 +5,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/alipay/cert"
-	"github.com/go-pay/gopay/pkg/js"
+	"github.com/cjieyan/gopay"
+	"github.com/cjieyan/gopay/alipay/cert"
+	"github.com/cjieyan/gopay/pkg/js"
 	"github.com/go-pay/util"
 	"github.com/go-pay/xlog"
 )
